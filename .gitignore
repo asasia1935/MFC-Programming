@@ -1,0 +1,48 @@
+# Windows 관련 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio 관련 파일
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.filters
+*.VC.db
+*.VC.opendb
+ipch/
+*.pdb
+
+# 빌드 결과물
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.log
+*.lib
+*.dll
+*.exp
+*.ilk
+
+# MFC 프로젝트 특화 파일
+*.aps
+*.ncb
+*.opt
+*.plg
+
+# 패키징 및 설치 관련 파일
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Test 결과물
+TestResult.xml
+*.trx
+
+# 기타 자동 생성 파일
+*.tlog
+*.lastbuildstate
